@@ -5,12 +5,8 @@
     { "id": 3, "title": "Post 3", "text": "Some text here 3" }
   ],
   "plants": [
-    { 
-      "id": "list", "data": [
-        { "id": "1", "name": "Banan Ice", "space": "Master 1", "type": "Royal Green", "last_water": "1720199231"},
-        { "id": "2", "name": "Gay Pride", "space": "Homo 1", "type": "Super Haze", "last_water": "1720199235"}
-      ]
-    } 
+    { "id": "1", "name": "Banan Ice", "space": "Master 1", "type": "Royal Green", "last_water": "1720199231"},
+    { "id": "2", "name": "Gay Pride", "space": "Homo 1", "type": "Super Haze", "last_water": "1720199235"}
   ],
   "login": [
     { "id": "vini", "success": true, "name": "Vinicius Weber", "token": "YnJ1bm9DaHVwYUt1" },
