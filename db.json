@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "login": [
-    { id:"vini", "success": "true", name: "Vinicius Weber", "token": "YnJ1bm9DaHVwYUt1" },
-    { id:"bruno", "success": "true", name: "Bruno Henrique", "token": "YnJ1bm9DaHVwYUt1" }
+    { "id": "vini", "success": true, name: "Vinicius Weber", "token": "YnJ1bm9DaHVwYUt1" },
+    { "id": "bruno", "success": true, name: "Bruno Henrique", "token": "YnJ1bm9DaHVwYUt1" }
   ]
 }
